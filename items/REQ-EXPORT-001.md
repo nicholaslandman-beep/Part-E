@@ -2,7 +2,7 @@
 itemId: REQ-EXPORT-001
 itemType: Requirement
 Requirement type: Part
-itemHasParent: FAKE-PARENT-999
+itemHasParent: REQ-AUDIT-001
 ---
 
 # TODO: Requirement title
