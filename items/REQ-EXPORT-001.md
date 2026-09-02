@@ -2,6 +2,7 @@
 itemId: REQ-EXPORT-001
 itemType: Requirement
 Requirement type: Part
+Level: Part
 itemHasParent: REQ-AUDIT-001
 ---
 
